@@ -1,10 +1,8 @@
 import { createGlobalStyle } from 'styled-components';
 
 const GlobalStyle = createGlobalStyle` 
-
-
   body {
-  font-family: 'Be Vietnam Pro', 'Roboto', Arial, Helvetica, sans-serif;
+  font-family: 'Be Vietnam Pro', Arial, Helvetica, sans-serif;
   }
 
 `;
